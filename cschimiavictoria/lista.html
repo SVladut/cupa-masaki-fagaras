@@ -1,0 +1,103 @@
+<!doctype html><meta charset="utf-8"><title>Lista — CS CHIMIA VICTORIA</title>
+<style>
+body{font:14px Arial;margin:24px;background:#eef2f7;color:#18243a}
+h1{margin-bottom:6px}.columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.column{background:white;border-radius:10px;overflow:hidden;box-shadow:0 2px 8px #18243a22}
+h2{margin:0;padding:14px;background:#18243a;color:white;text-align:center}
+table{width:100%;border-collapse:collapse}th,td{border-bottom:1px solid #d9e0e8;padding:8px 7px;vertical-align:top}
+th{background:#d71945;color:white;text-align:left}.time,.code{font-weight:bold;white-space:nowrap}
+.code{color:#d71945}.duration{white-space:nowrap;color:#526172}.rosu{background:#ffdede}
+.albastru{background:#dfe8ff}.band{display:inline-block;width:7px;height:22px;
+vertical-align:middle;margin-right:7px;border-radius:2px}.band.rosu{background:#e33434}
+.band.albastru{background:#356bd8}.category-link{color:#d71945;font-weight:bold;text-decoration:none}
+.category-block{background:white;margin:0 0 16px;border-radius:10px;overflow:hidden;
+box-shadow:0 2px 8px #18243a22}.category-title{padding:12px 14px;background:#18243a;color:white}
+.category-title a{color:white}.category-table{width:100%}
+@media(max-width:900px){.columns{grid-template-columns:1fr}}
+</style>
+<style>.hidden{display:none}.selector{padding:10px;background:white;border-radius:8px;margin-bottom:14px}.total{font-size:18px;background:#18243a;color:white;padding:12px;border-radius:8px;margin-top:14px}</style>
+<h1>Lista — CS CHIMIA VICTORIA</h1>
+<div class="selector"><label>Afișare: <select id="view" onchange="switchView()"><option value="athletes">Sportivi și taxe</option><option value="categories">Categorii</option></select></label></div>
+<div id="athletes"><p><b>TAXĂ DE COMPETIȚIE:</b> 100 LEI prima probă individuală; 160 LEI pentru 2 probe individuale; 230 LEI pentru 3 sau 4 probe individuale; 150 LEI proba de echipă (50 LEI/copil).</p>
+<table><tr><th>Sportiv</th><th>Probe/categorii</th><th>Echipe</th><th>Individual</th><th>Echipă</th><th>Total</th></tr>
+<tr><td>IOSIPESCU MIA-SOFIA</td><td>FT2 — Traseu feminin 6-7 ani 10-6 kyu<br>FM2 — Makiwara feminin 6-7 ani 10-6 kyu<br>FKAT8 — Kata feminin 6-7 ani 8-7 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>VICTORIA 1</td><td>230 LEI</td><td>50 LEI</td><td><b>280 LEI</b></td></tr>
+<tr><td>IOSIPESCU MIHNEA-STEFAN</td><td>MOPEN1 — Kata Open masculin 10-13 ani  <br>MKAT15 — Kata masculin 12-13 ani 6-4 kyu<br>MKU7 — Kumite masculin 12-13 ani 6-4 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>ZAMFIR ANAMARIA-CLAUDIA</td><td>FOPEN2 — Kata Open feminin 14-18 ani  <br>FKAT20 — Kata feminin 14-16 ani 3-1 kyu / DAN<br>FKU12 — Kumite feminin 14-16 ani 3-1 kyu / DAN</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>ZAMFIR ALEXANDRU-IOAN</td><td>MOPEN2 — Kata Open masculin 14-18 ani  <br>MKAT20 — Kata masculin 14-16 ani 3-1 kyu / DAN<br>MKU12 — Kumite masculin 14-16 ani 3-1 kyu / DAN</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>GAVRILA ALEXANDRU</td><td>MKU12 — Kumite masculin 14-16 ani 3-1 kyu / DAN</td><td>-</td><td>100 LEI</td><td>0 LEI</td><td><b>100 LEI</b></td></tr>
+<tr><td>LUP ANDREEA</td><td>FT4 — Traseu feminin 10-11 ani 10-6 kyu<br>FM4 — Makiwara feminin 10-11 ani 10-6 kyu<br>FKAT4 — Kata feminin 10-11 ani 10-9 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>OLARU DARIA- GABRIELA</td><td>FKAT14 — Kata feminin 10-11 ani 6-4 kyu<br>FKU6 — Kumite feminin 10-11 ani 6-4 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>ANDREI LAVINIA</td><td>FKAT12 — Kata feminin 14-16 ani 8-7 kyu<br>FKU3 — Kumite feminin 12-13 ani 10-7 kyu</td><td>VICTORIA 2</td><td>160 LEI</td><td>50 LEI</td><td><b>210 LEI</b></td></tr>
+<tr><td>ANDREI DARIA</td><td>FT1 — Traseu feminin 4-5 ani 10-6 kyu<br>FM1 — Makiwara feminin 4-5 ani 10-6 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>COSTEA CODIN</td><td>MT3 — Traseu masculin 8-9 ani 10-6 kyu<br>MM3 — Makiwara masculin 8-9 ani 10-6 kyu<br>MKAT9 — Kata masculin 8-9 ani 8-7 kyu<br>MKU1 — Kumite masculin 8-9 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>COSTEA TEODOR</td><td>MT2 — Traseu masculin 6-7 ani 10-6 kyu<br>MM2 — Makiwara masculin 6-7 ani 10-6 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>STRAOANU ALESSIA</td><td>FT4 — Traseu feminin 10-11 ani 10-6 kyu<br>FM4 — Makiwara feminin 10-11 ani 10-6 kyu<br>FKAT10 — Kata feminin 10-11 ani 8-7 kyu<br>FKU2 — Kumite feminin 10-11 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>STRAOANU SONIA</td><td>FT2 — Traseu feminin 6-7 ani 10-6 kyu<br>FM2 — Makiwara feminin 6-7 ani 10-6 kyu<br>FKAT8 — Kata feminin 6-7 ani 8-7 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>VLAD ANA</td><td>FT3 — Traseu feminin 8-9 ani 10-6 kyu<br>FM3 — Makiwara feminin 8-9 ani 10-6 kyu<br>FKAT3 — Kata feminin 8-9 ani 10-9 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>BARSAN EMMA</td><td>FT3 — Traseu feminin 8-9 ani 10-6 kyu<br>FM3 — Makiwara feminin 8-9 ani 10-6 kyu<br>FKAT9 — Kata feminin 8-9 ani 8-7 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>SMADU ANDREI</td><td>MT2 — Traseu masculin 6-7 ani 10-6 kyu<br>MM2 — Makiwara masculin 6-7 ani 10-6 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>SMADU TEODOOR</td><td>MT1 — Traseu masculin 4-5 ani 10-6 kyu<br>MM2 — Makiwara masculin 6-7 ani 10-6 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>URDA EVELIN</td><td>FT4 — Traseu feminin 10-11 ani 10-6 kyu<br>FM4 — Makiwara feminin 10-11 ani 10-6 kyu<br>FKAT4 — Kata feminin 10-11 ani 10-9 kyu<br>FKU2 — Kumite feminin 10-11 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>MANDAN ALESSIA</td><td>FT4 — Traseu feminin 10-11 ani 10-6 kyu<br>FM4 — Makiwara feminin 10-11 ani 10-6 kyu<br>FKAT5 — Kata feminin 12-13 ani 10-9 kyu<br>FKU3 — Kumite feminin 12-13 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>MANDAN ELIZA</td><td>FT4 — Traseu feminin 10-11 ani 10-6 kyu<br>FM4 — Makiwara feminin 10-11 ani 10-6 kyu<br>FKAT4 — Kata feminin 10-11 ani 10-9 kyu<br>FKU2 — Kumite feminin 10-11 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>BLEOACA SABIN</td><td>MKAT20 — Kata masculin 14-16 ani 3-1 kyu / DAN<br>MKU4 — Kumite masculin 14-16 ani 10-7 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>BUDINA EVA</td><td>FT3 — Traseu feminin 8-9 ani 10-6 kyu<br>FM3 — Makiwara feminin 8-9 ani 10-6 kyu<br>FKAT3 — Kata feminin 8-9 ani 10-9 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>CIMPOERU BEATRICE</td><td>FOPEN2 — Kata Open feminin 14-18 ani  <br>FKAT20 — Kata feminin 14-16 ani 3-1 kyu / DAN<br>FKU12 — Kumite feminin 14-16 ani 3-1 kyu / DAN</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>COMAN MADALINA</td><td>FOPEN1 — Kata Open feminin 10-13 ani  <br>FKAT14 — Kata feminin 10-11 ani 6-4 kyu<br>FKU6 — Kumite feminin 10-11 ani 6-4 kyu</td><td>VICTORIA 2</td><td>230 LEI</td><td>50 LEI</td><td><b>280 LEI</b></td></tr>
+<tr><td>CARSTEA MARTINA</td><td>FT3 — Traseu feminin 8-9 ani 10-6 kyu<br>FM3 — Makiwara feminin 8-9 ani 10-6 kyu<br>FKAT3 — Kata feminin 8-9 ani 10-9 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>SOFONEA SARA</td><td>FT3 — Traseu feminin 8-9 ani 10-6 kyu<br>FM3 — Makiwara feminin 8-9 ani 10-6 kyu<br>FKAT3 — Kata feminin 8-9 ani 10-9 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>NAGHI ANNE MARIE</td><td>FT3 — Traseu feminin 8-9 ani 10-6 kyu<br>FM3 — Makiwara feminin 8-9 ani 10-6 kyu<br>FKAT3 — Kata feminin 8-9 ani 10-9 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>CHIRIL ALEXANDRA</td><td>FT3 — Traseu feminin 8-9 ani 10-6 kyu<br>FM3 — Makiwara feminin 8-9 ani 10-6 kyu<br>FKAT9 — Kata feminin 8-9 ani 8-7 kyu<br>FKU1 — Kumite feminin 8-9 ani 10-7 kyu</td><td>VICTORIA 1</td><td>230 LEI</td><td>50 LEI</td><td><b>280 LEI</b></td></tr>
+<tr><td>BELTECHI TEONA VICTORIA</td><td>FOPEN2 — Kata Open feminin 14-18 ani  <br>FKAT23 — Kata feminin 17-18 ani 3-1 kyu / DAN<br>FKU13 — Kumite feminin 17-18 ani 8-7 kyu</td><td>-</td><td>230 LEI</td><td>0 LEI</td><td><b>230 LEI</b></td></tr>
+<tr><td>ALDEA DOMINIC</td><td>MT2 — Traseu masculin 6-7 ani 10-6 kyu<br>MM2 — Makiwara masculin 6-7 ani 10-6 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>IOSIPESCU MIHNEA-STEFAN</td><td>MKAT14 — Kata masculin 10-11 ani 6-4 kyu<br>MKU6 — Kumite masculin 10-11 ani 6-4 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+</table>
+<div class="total">TOTAL DE ACHITAT: 6570 LEI</div></div>
+<div id="categories" class="hidden"><table><tr><th>Categorie</th><th>Sportivi</th><th>Nr.</th></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=1#page=1">FOPEN2</a> — Kata Open feminin 14-18 ani  </td><td>ZAMFIR ANAMARIA-CLAUDIA, CIMPOERU BEATRICE, BELTECHI TEONA VICTORIA</td><td>3</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=2#page=2">MOPEN2</a> — Kata Open masculin 14-18 ani  </td><td>ZAMFIR ALEXANDRU-IOAN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=3#page=3">FOPEN1</a> — Kata Open feminin 10-13 ani  </td><td>COMAN MADALINA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=4#page=4">MOPEN1</a> — Kata Open masculin 10-13 ani  </td><td>IOSIPESCU MIHNEA-STEFAN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=5#page=5">MT1</a> — Traseu masculin 4-5 ani 10-6 kyu</td><td>SMADU TEODOOR</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=6#page=6">FT1</a> — Traseu feminin 4-5 ani 10-6 kyu</td><td>ANDREI DARIA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=7#page=7">MT2</a> — Traseu masculin 6-7 ani 10-6 kyu</td><td>COSTEA TEODOR, SMADU ANDREI, ALDEA DOMINIC</td><td>3</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=11#page=11">FT2</a> — Traseu feminin 6-7 ani 10-6 kyu</td><td>IOSIPESCU MIA-SOFIA, STRAOANU SONIA</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=12#page=12">MT3</a> — Traseu masculin 8-9 ani 10-6 kyu</td><td>COSTEA CODIN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=14#page=14">FT3</a> — Traseu feminin 8-9 ani 10-6 kyu</td><td>VLAD ANA, BARSAN EMMA, BUDINA EVA, CARSTEA MARTINA, SOFONEA SARA, NAGHI ANNE MARIE, CHIRIL ALEXANDRA</td><td>7</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=18#page=18">FT4</a> — Traseu feminin 10-11 ani 10-6 kyu</td><td>LUP ANDREEA, STRAOANU ALESSIA, URDA EVELIN, MANDAN ELIZA, MANDAN ALESSIA</td><td>5</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=20#page=20">FM1</a> — Makiwara feminin 4-5 ani 10-6 kyu</td><td>ANDREI DARIA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=21#page=21">MM2</a> — Makiwara masculin 6-7 ani 10-6 kyu</td><td>COSTEA TEODOR, SMADU ANDREI, ALDEA DOMINIC, SMADU TEODOOR</td><td>4</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=25#page=25">FM2</a> — Makiwara feminin 6-7 ani 10-6 kyu</td><td>IOSIPESCU MIA-SOFIA, STRAOANU SONIA</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=26#page=26">MM3</a> — Makiwara masculin 8-9 ani 10-6 kyu</td><td>COSTEA CODIN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=29#page=29">FM3</a> — Makiwara feminin 8-9 ani 10-6 kyu</td><td>VLAD ANA, BARSAN EMMA, BUDINA EVA, CARSTEA MARTINA, SOFONEA SARA, NAGHI ANNE MARIE, CHIRIL ALEXANDRA</td><td>7</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=33#page=33">FM4</a> — Makiwara feminin 10-11 ani 10-6 kyu</td><td>LUP ANDREEA, STRAOANU ALESSIA, URDA EVELIN, MANDAN ELIZA, MANDAN ALESSIA</td><td>5</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=40#page=40">FKAT3</a> — Kata feminin 8-9 ani 10-9 kyu</td><td>VLAD ANA, BUDINA EVA, CARSTEA MARTINA, SOFONEA SARA, NAGHI ANNE MARIE</td><td>5</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=43#page=43">FKAT4</a> — Kata feminin 10-11 ani 10-9 kyu</td><td>LUP ANDREEA, URDA EVELIN, MANDAN ELIZA</td><td>3</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=45#page=45">FKAT5</a> — Kata feminin 12-13 ani 10-9 kyu</td><td>MANDAN ALESSIA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=46#page=46">FKAT8</a> — Kata feminin 6-7 ani 8-7 kyu</td><td>IOSIPESCU MIA-SOFIA, STRAOANU SONIA</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=47#page=47">MKAT9</a> — Kata masculin 8-9 ani 8-7 kyu</td><td>COSTEA CODIN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=49#page=49">FKAT9</a> — Kata feminin 8-9 ani 8-7 kyu</td><td>BARSAN EMMA, CHIRIL ALEXANDRA</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=50#page=50">FKAT10</a> — Kata feminin 10-11 ani 8-7 kyu</td><td>STRAOANU ALESSIA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=51#page=51">FKAT12</a> — Kata feminin 14-16 ani 8-7 kyu</td><td>ANDREI LAVINIA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=54#page=54">MKAT14</a> — Kata masculin 10-11 ani 6-4 kyu</td><td>IOSIPESCU MIHNEA-STEFAN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=55#page=55">FKAT14</a> — Kata feminin 10-11 ani 6-4 kyu</td><td>OLARU DARIA- GABRIELA, COMAN MADALINA</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=56#page=56">MKAT15</a> — Kata masculin 12-13 ani 6-4 kyu</td><td>IOSIPESCU MIHNEA-STEFAN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=58#page=58">MKAT20</a> — Kata masculin 14-16 ani 3-1 kyu / DAN</td><td>BLEOACA SABIN, ZAMFIR ALEXANDRU-IOAN</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=59#page=59">FKAT20</a> — Kata feminin 14-16 ani 3-1 kyu / DAN</td><td>ZAMFIR ANAMARIA-CLAUDIA, CIMPOERU BEATRICE</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=60#page=60">FKAT23</a> — Kata feminin 17-18 ani 3-1 kyu / DAN</td><td>BELTECHI TEONA VICTORIA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=61#page=61">MKU1</a> — Kumite masculin 8-9 ani 10-7 kyu</td><td>COSTEA CODIN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=62#page=62">FKU1</a> — Kumite feminin 8-9 ani 10-7 kyu</td><td>IOSIPESCU MIA-SOFIA, STRAOANU SONIA, VLAD ANA, BARSAN EMMA, CARSTEA MARTINA, SOFONEA SARA, NAGHI ANNE MARIE, CHIRIL ALEXANDRA</td><td>8</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=66#page=66">FKU2</a> — Kumite feminin 10-11 ani 10-7 kyu</td><td>STRAOANU ALESSIA, URDA EVELIN, MANDAN ELIZA</td><td>3</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=67#page=67">FKU3</a> — Kumite feminin 12-13 ani 10-7 kyu</td><td>ANDREI LAVINIA, MANDAN ALESSIA</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=68#page=68">MKU4</a> — Kumite masculin 14-16 ani 10-7 kyu</td><td>BLEOACA SABIN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=70#page=70">MKU6</a> — Kumite masculin 10-11 ani 6-4 kyu</td><td>IOSIPESCU MIHNEA-STEFAN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=71#page=71">FKU6</a> — Kumite feminin 10-11 ani 6-4 kyu</td><td>OLARU DARIA- GABRIELA, COMAN MADALINA</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=72#page=72">MKU7</a> — Kumite masculin 12-13 ani 6-4 kyu</td><td>IOSIPESCU MIHNEA-STEFAN</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=74#page=74">MKU12</a> — Kumite masculin 14-16 ani 3-1 kyu / DAN</td><td>GAVRILA ALEXANDRU, ZAMFIR ALEXANDRU-IOAN</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=75#page=75">FKU12</a> — Kumite feminin 14-16 ani 3-1 kyu / DAN</td><td>ZAMFIR ANAMARIA-CLAUDIA, CIMPOERU BEATRICE</td><td>2</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=76#page=76">FKU13</a> — Kumite feminin 17-18 ani 8-7 kyu</td><td>BELTECHI TEONA VICTORIA</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=78#page=78">FKATTEAM2</a> — Kata echipe feminin 8-9 ani  </td><td>VICTORIA 1 (IOSIPESCU MIA SOFIA, NAGHY ANNE MARIE, CHIRIL ALEXANDRA)</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=81#page=81">FKATTEAM4</a> — Kata echipe feminin 12-13 ani  </td><td>VICTORIA 2 (OLARU GABRIELA, COMAN MADALINA, ANDREI LAVINIA)</td><td>1</td></tr>
+</table></div>
+<section class="total"><b>Necesar pentru sportivii clubului</b><br>Intrări: 101 &nbsp; | &nbsp; Diplome: 101 &nbsp; | &nbsp; Medalii: aur 63, argint 48, bronz 8 (total 119)</section>
+<script>function switchView(){let v=document.getElementById("view").value;document.getElementById("athletes").classList.toggle("hidden",v!=="athletes");document.getElementById("categories").classList.toggle("hidden",v!=="categories");}</script>

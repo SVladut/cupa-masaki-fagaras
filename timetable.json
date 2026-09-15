@@ -1,0 +1,1898 @@
+[
+  {
+    "cod": "FOPEN2",
+    "categorie": "FOPEN2",
+    "denumire": "Kata Open feminin 14-18 ani  ",
+    "tatami": 1,
+    "ora": "10:00",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 6,
+    "participant_ids": [
+      "GIROC:Sheet1:11",
+      "VIKINGII ALBI:Sheet1:10",
+      "vicotria:Sheet1:38",
+      "FAGARAS:Sheet1:51",
+      "vicotria:Sheet1:32",
+      "vicotria:Sheet1:12"
+    ],
+    "culori": {
+      "GIROC:Sheet1:11": "ROSU",
+      "VIKINGII ALBI:Sheet1:10": "ALBASTRU",
+      "vicotria:Sheet1:38": "ALBASTRU",
+      "FAGARAS:Sheet1:51": "ROSU",
+      "vicotria:Sheet1:32": "ALBASTRU",
+      "vicotria:Sheet1:12": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MOPEN2",
+    "categorie": "MOPEN2",
+    "denumire": "Kata Open masculin 14-18 ani  ",
+    "tatami": 2,
+    "ora": "10:00",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:96",
+      "FAGARAS:Sheet1:95",
+      "vicotria:Sheet1:13",
+      "FAGARAS:Sheet1:98"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:96": "ROSU",
+      "FAGARAS:Sheet1:95": "ALBASTRU",
+      "vicotria:Sheet1:13": "ROSU",
+      "FAGARAS:Sheet1:98": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FOPEN1",
+    "categorie": "FOPEN1",
+    "denumire": "Kata Open feminin 10-13 ani  ",
+    "tatami": 1,
+    "ora": "10:10",
+    "durata_minute": 17,
+    "faza": "kata",
+    "numar_participanti": 16,
+    "participant_ids": [
+      "vicotria:Sheet1:33",
+      "FAGARAS:Sheet1:27",
+      "FAGARAS:Sheet1:28",
+      "GIROC:Sheet1:21",
+      "FAGARAS:Sheet1:44",
+      "GIROC:Sheet1:16",
+      "FAGARAS:Sheet1:47",
+      "FAGARAS:Sheet1:43",
+      "VIKINGII ALBI:Sheet1:11",
+      "FAGARAS:Sheet1:46",
+      "GIROC:Sheet1:17",
+      "FAGARAS:Sheet1:42",
+      "FAGARAS:Sheet1:34",
+      "FAGARAS:Sheet1:48",
+      "FAGARAS:Sheet1:36",
+      "GIROC:Sheet1:28"
+    ],
+    "culori": {
+      "vicotria:Sheet1:33": "ROSU",
+      "FAGARAS:Sheet1:27": "ALBASTRU",
+      "FAGARAS:Sheet1:28": "ROSU",
+      "GIROC:Sheet1:21": "ALBASTRU",
+      "FAGARAS:Sheet1:44": "ROSU",
+      "GIROC:Sheet1:16": "ALBASTRU",
+      "FAGARAS:Sheet1:47": "ROSU",
+      "FAGARAS:Sheet1:43": "ALBASTRU",
+      "VIKINGII ALBI:Sheet1:11": "ROSU",
+      "FAGARAS:Sheet1:46": "ALBASTRU",
+      "GIROC:Sheet1:17": "ROSU",
+      "FAGARAS:Sheet1:42": "ALBASTRU",
+      "FAGARAS:Sheet1:34": "ROSU",
+      "FAGARAS:Sheet1:48": "ALBASTRU",
+      "FAGARAS:Sheet1:36": "ROSU",
+      "GIROC:Sheet1:28": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MOPEN1",
+    "categorie": "MOPEN1",
+    "denumire": "Kata Open masculin 10-13 ani  ",
+    "tatami": 2,
+    "ora": "10:10",
+    "durata_minute": 13,
+    "faza": "kata",
+    "numar_participanti": 11,
+    "participant_ids": [
+      "GIROC:Sheet1:23",
+      "FAGARAS:Sheet1:88",
+      "FAGARAS:Sheet1:82",
+      "vicotria:Sheet1:11",
+      "FAGARAS:Sheet1:81",
+      "FAGARAS:Sheet1:84",
+      "FAGARAS:Sheet1:92",
+      "GIROC:Sheet1:22",
+      "FAGARAS:Sheet1:90",
+      "FAGARAS:Sheet1:93",
+      "FAGARAS:Sheet1:83"
+    ],
+    "culori": {
+      "GIROC:Sheet1:23": "ROSU",
+      "FAGARAS:Sheet1:88": "ALBASTRU",
+      "FAGARAS:Sheet1:82": "ALBASTRU",
+      "vicotria:Sheet1:11": "ROSU",
+      "FAGARAS:Sheet1:81": "ALBASTRU",
+      "FAGARAS:Sheet1:84": "ALBASTRU",
+      "FAGARAS:Sheet1:92": "ROSU",
+      "GIROC:Sheet1:22": "ALBASTRU",
+      "FAGARAS:Sheet1:90": "ALBASTRU",
+      "FAGARAS:Sheet1:93": "ROSU",
+      "FAGARAS:Sheet1:83": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT1",
+    "categorie": "FKAT1",
+    "denumire": "Kata feminin 4-5 ani 10-9 kyu",
+    "tatami": 2,
+    "ora": "10:25",
+    "durata_minute": 6,
+    "faza": "kata",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "GIROC:Sheet1:25",
+      "FAGARAS:Sheet1:10",
+      "FAGARAS:Sheet1:11"
+    ],
+    "culori": {
+      "GIROC:Sheet1:25": "ROSU",
+      "FAGARAS:Sheet1:10": "ALBASTRU",
+      "FAGARAS:Sheet1:11": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT2",
+    "categorie": "FKAT2",
+    "denumire": "Kata feminin 6-7 ani 10-9 kyu",
+    "tatami": 1,
+    "ora": "10:30",
+    "durata_minute": 5,
+    "faza": "kata",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "FAGARAS:Sheet1:12",
+      "FAGARAS:Sheet1:13"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:12": "ROSU",
+      "FAGARAS:Sheet1:13": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT8",
+    "categorie": "FKAT8",
+    "denumire": "Kata feminin 6-7 ani 8-7 kyu",
+    "tatami": 1,
+    "ora": "10:35",
+    "durata_minute": 8,
+    "faza": "kata",
+    "numar_participanti": 5,
+    "participant_ids": [
+      "vicotria:Sheet1:10",
+      "FAGARAS:Sheet1:16",
+      "FAGARAS:Sheet1:14",
+      "vicotria:Sheet1:22",
+      "FAGARAS:Sheet1:15"
+    ],
+    "culori": {
+      "vicotria:Sheet1:10": "ROSU",
+      "FAGARAS:Sheet1:16": "ALBASTRU",
+      "FAGARAS:Sheet1:14": "ALBASTRU",
+      "vicotria:Sheet1:22": "ROSU",
+      "FAGARAS:Sheet1:15": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT2A",
+    "categorie": "MKAT2",
+    "denumire": "Kata masculin 6-7 ani 10-9 kyu",
+    "tatami": 2,
+    "ora": "10:35",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:56",
+      "FAGARAS:Sheet1:55",
+      "FAGARAS:Sheet1:62",
+      "FAGARAS:Sheet1:64"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:56": "ROSU",
+      "FAGARAS:Sheet1:55": "ALBASTRU",
+      "FAGARAS:Sheet1:62": "ROSU",
+      "FAGARAS:Sheet1:64": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT2B",
+    "categorie": "MKAT2",
+    "denumire": "Kata masculin 6-7 ani 10-9 kyu",
+    "tatami": 1,
+    "ora": "10:45",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:63",
+      "FAGARAS:Sheet1:59",
+      "FAGARAS:Sheet1:61",
+      "FAGARAS:Sheet1:57"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:63": "ROSU",
+      "FAGARAS:Sheet1:59": "ALBASTRU",
+      "FAGARAS:Sheet1:61": "ROSU",
+      "FAGARAS:Sheet1:57": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT13",
+    "categorie": "FKAT13",
+    "denumire": "Kata feminin 8-9 ani 6-4 kyu",
+    "tatami": 2,
+    "ora": "10:45",
+    "durata_minute": 5,
+    "faza": "kata",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "GIROC:Sheet1:19",
+      "FAGARAS:Sheet1:22"
+    ],
+    "culori": {
+      "GIROC:Sheet1:19": "ROSU",
+      "FAGARAS:Sheet1:22": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT3A",
+    "categorie": "FKAT3",
+    "denumire": "Kata feminin 8-9 ani 10-9 kyu",
+    "tatami": 2,
+    "ora": "10:50",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:36",
+      "vicotria:Sheet1:23",
+      "FAGARAS:Sheet1:17",
+      "vicotria:Sheet1:34"
+    ],
+    "culori": {
+      "vicotria:Sheet1:36": "ROSU",
+      "vicotria:Sheet1:23": "ALBASTRU",
+      "FAGARAS:Sheet1:17": "ROSU",
+      "vicotria:Sheet1:34": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT3B",
+    "categorie": "FKAT3",
+    "denumire": "Kata feminin 8-9 ani 10-9 kyu",
+    "tatami": 1,
+    "ora": "10:55",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:20",
+      "vicotria:Sheet1:35",
+      "vicotria:Sheet1:31",
+      "FAGARAS:Sheet1:18"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:20": "ROSU",
+      "vicotria:Sheet1:35": "ALBASTRU",
+      "vicotria:Sheet1:31": "ROSU",
+      "FAGARAS:Sheet1:18": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT9",
+    "categorie": "FKAT9",
+    "denumire": "Kata feminin 8-9 ani 8-7 kyu",
+    "tatami": 2,
+    "ora": "11:00",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 6,
+    "participant_ids": [
+      "FAGARAS:Sheet1:19",
+      "vicotria:Sheet1:24",
+      "FAGARAS:Sheet1:21",
+      "vicotria:Sheet1:37",
+      "FAGARAS:Sheet1:24",
+      "FAGARAS:Sheet1:23"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:19": "ROSU",
+      "vicotria:Sheet1:24": "ALBASTRU",
+      "FAGARAS:Sheet1:21": "ALBASTRU",
+      "vicotria:Sheet1:37": "ROSU",
+      "FAGARAS:Sheet1:24": "ALBASTRU",
+      "FAGARAS:Sheet1:23": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKATTEAM2",
+    "categorie": "FKATTEAM2",
+    "denumire": "Kata echipe feminin 8-9 ani  ",
+    "tatami": 1,
+    "ora": "11:05",
+    "durata_minute": 6,
+    "faza": "kata",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:ECHIPA:10",
+      "FAGARAS:Sheet1:ECHIPA:10",
+      "FAGARAS:Sheet1:ECHIPA:13"
+    ],
+    "culori": {
+      "vicotria:Sheet1:ECHIPA:10": "ROSU",
+      "FAGARAS:Sheet1:ECHIPA:10": "ALBASTRU",
+      "FAGARAS:Sheet1:ECHIPA:13": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT13",
+    "categorie": "MKAT13",
+    "denumire": "Kata masculin 8-9 ani 6-4 kyu",
+    "tatami": 2,
+    "ora": "11:10",
+    "durata_minute": 5,
+    "faza": "kata",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "GIROC:Sheet1:22",
+      "GIROC:Sheet1:14"
+    ],
+    "culori": {
+      "GIROC:Sheet1:22": "ROSU",
+      "GIROC:Sheet1:14": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT3",
+    "categorie": "MKAT3",
+    "denumire": "Kata masculin 8-9 ani 10-9 kyu",
+    "tatami": 1,
+    "ora": "11:15",
+    "durata_minute": 8,
+    "faza": "kata",
+    "numar_participanti": 5,
+    "participant_ids": [
+      "FAGARAS:Sheet1:73",
+      "FAGARAS:Sheet1:66",
+      "FAGARAS:Sheet1:76",
+      "FAGARAS:Sheet1:68",
+      "FAGARAS:Sheet1:70"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:73": "ROSU",
+      "FAGARAS:Sheet1:66": "ALBASTRU",
+      "FAGARAS:Sheet1:76": "ALBASTRU",
+      "FAGARAS:Sheet1:68": "ROSU",
+      "FAGARAS:Sheet1:70": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT9A",
+    "categorie": "MKAT9",
+    "denumire": "Kata masculin 8-9 ani 8-7 kyu",
+    "tatami": 2,
+    "ora": "11:15",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 7,
+    "participant_ids": [
+      "vicotria:Sheet1:19",
+      "FAGARAS:Sheet1:67",
+      "FAGARAS:Sheet1:77",
+      "FAGARAS:Sheet1:80",
+      "FAGARAS:Sheet1:78",
+      "FAGARAS:Sheet1:72",
+      "FAGARAS:Sheet1:79"
+    ],
+    "culori": {
+      "vicotria:Sheet1:19": "ROSU",
+      "FAGARAS:Sheet1:67": "ALBASTRU",
+      "FAGARAS:Sheet1:77": "ROSU",
+      "FAGARAS:Sheet1:80": "ALBASTRU",
+      "FAGARAS:Sheet1:78": "ROSU",
+      "FAGARAS:Sheet1:72": "ALBASTRU",
+      "FAGARAS:Sheet1:79": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT9B",
+    "categorie": "MKAT9",
+    "denumire": "Kata masculin 8-9 ani 8-7 kyu",
+    "tatami": 1,
+    "ora": "11:25",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 7,
+    "participant_ids": [
+      "FAGARAS:Sheet1:65",
+      "FAGARAS:Sheet1:69",
+      "GIROC:Sheet1:20",
+      "FAGARAS:Sheet1:60",
+      "FAGARAS:Sheet1:74",
+      "GIROC:Sheet1:29",
+      "FAGARAS:Sheet1:75"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:65": "ROSU",
+      "FAGARAS:Sheet1:69": "ALBASTRU",
+      "GIROC:Sheet1:20": "ROSU",
+      "FAGARAS:Sheet1:60": "ALBASTRU",
+      "FAGARAS:Sheet1:74": "ROSU",
+      "GIROC:Sheet1:29": "ALBASTRU",
+      "FAGARAS:Sheet1:75": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKATTEAM2",
+    "categorie": "MKATTEAM2",
+    "denumire": "Kata echipe masculin 8-9 ani  ",
+    "tatami": 2,
+    "ora": "11:25",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:ECHIPA:43",
+      "FAGARAS:Sheet1:ECHIPA:40",
+      "FAGARAS:Sheet1:ECHIPA:34",
+      "FAGARAS:Sheet1:ECHIPA:37"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:ECHIPA:43": "ROSU",
+      "FAGARAS:Sheet1:ECHIPA:40": "ALBASTRU",
+      "FAGARAS:Sheet1:ECHIPA:34": "ROSU",
+      "FAGARAS:Sheet1:ECHIPA:37": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT10",
+    "categorie": "FKAT10",
+    "denumire": "Kata feminin 10-11 ani 8-7 kyu",
+    "tatami": 1,
+    "ora": "11:35",
+    "durata_minute": 11,
+    "faza": "kata",
+    "numar_participanti": 9,
+    "participant_ids": [
+      "vicotria:Sheet1:21",
+      "FAGARAS:Sheet1:38",
+      "FAGARAS:Sheet1:30",
+      "FAGARAS:Sheet1:29",
+      "FAGARAS:Sheet1:26",
+      "FAGARAS:Sheet1:25",
+      "FAGARAS:Sheet1:31",
+      "FAGARAS:Sheet1:32",
+      "FAGARAS:Sheet1:33"
+    ],
+    "culori": {
+      "vicotria:Sheet1:21": "ROSU",
+      "FAGARAS:Sheet1:38": "ALBASTRU",
+      "FAGARAS:Sheet1:30": "ALBASTRU",
+      "FAGARAS:Sheet1:29": "ROSU",
+      "FAGARAS:Sheet1:26": "ALBASTRU",
+      "FAGARAS:Sheet1:25": "ROSU",
+      "FAGARAS:Sheet1:31": "ALBASTRU",
+      "FAGARAS:Sheet1:32": "ROSU",
+      "FAGARAS:Sheet1:33": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT14",
+    "categorie": "FKAT14",
+    "denumire": "Kata feminin 10-11 ani 6-4 kyu",
+    "tatami": 2,
+    "ora": "11:35",
+    "durata_minute": 12,
+    "faza": "kata",
+    "numar_participanti": 10,
+    "participant_ids": [
+      "FAGARAS:Sheet1:37",
+      "VIKINGII ALBI:Sheet1:11",
+      "GIROC:Sheet1:28",
+      "vicotria:Sheet1:16",
+      "FAGARAS:Sheet1:34",
+      "GIROC:Sheet1:16",
+      "FAGARAS:Sheet1:36",
+      "FAGARAS:Sheet1:28",
+      "FAGARAS:Sheet1:27",
+      "vicotria:Sheet1:33"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:37": "ROSU",
+      "VIKINGII ALBI:Sheet1:11": "ALBASTRU",
+      "GIROC:Sheet1:28": "ALBASTRU",
+      "vicotria:Sheet1:16": "ROSU",
+      "FAGARAS:Sheet1:34": "ALBASTRU",
+      "GIROC:Sheet1:16": "ROSU",
+      "FAGARAS:Sheet1:36": "ALBASTRU",
+      "FAGARAS:Sheet1:28": "ALBASTRU",
+      "FAGARAS:Sheet1:27": "ROSU",
+      "vicotria:Sheet1:33": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT4",
+    "categorie": "FKAT4",
+    "denumire": "Kata feminin 10-11 ani 10-9 kyu",
+    "tatami": 1,
+    "ora": "11:50",
+    "durata_minute": 8,
+    "faza": "kata",
+    "numar_participanti": 5,
+    "participant_ids": [
+      "vicotria:Sheet1:27",
+      "FAGARAS:Sheet1:39",
+      "vicotria:Sheet1:15",
+      "FAGARAS:Sheet1:35",
+      "vicotria:Sheet1:29"
+    ],
+    "culori": {
+      "vicotria:Sheet1:27": "ROSU",
+      "FAGARAS:Sheet1:39": "ALBASTRU",
+      "vicotria:Sheet1:15": "ALBASTRU",
+      "FAGARAS:Sheet1:35": "ROSU",
+      "vicotria:Sheet1:29": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKATTEAM3",
+    "categorie": "FKATTEAM3",
+    "denumire": "Kata echipe feminin 10-11 ani  ",
+    "tatami": 2,
+    "ora": "11:50",
+    "durata_minute": 6,
+    "faza": "kata",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:ECHIPA:22",
+      "FAGARAS:Sheet1:ECHIPA:19",
+      "FAGARAS:Sheet1:ECHIPA:16"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:ECHIPA:22": "ROSU",
+      "FAGARAS:Sheet1:ECHIPA:19": "ALBASTRU",
+      "FAGARAS:Sheet1:ECHIPA:16": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT14",
+    "categorie": "MKAT14",
+    "denumire": "Kata masculin 10-11 ani 6-4 kyu",
+    "tatami": 1,
+    "ora": "12:00",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 7,
+    "participant_ids": [
+      "FAGARAS:Sheet1:81",
+      "GIROC:Sheet1:13",
+      "FAGARAS:Sheet1:83",
+      "vicotria:Sheet1:40",
+      "GIROC:Sheet1:18",
+      "FAGARAS:Sheet1:82",
+      "FAGARAS:Sheet1:84"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:81": "ROSU",
+      "GIROC:Sheet1:13": "ALBASTRU",
+      "FAGARAS:Sheet1:83": "ROSU",
+      "vicotria:Sheet1:40": "ALBASTRU",
+      "GIROC:Sheet1:18": "ROSU",
+      "FAGARAS:Sheet1:82": "ALBASTRU",
+      "FAGARAS:Sheet1:84": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT4",
+    "categorie": "MKAT4",
+    "denumire": "Kata masculin 10-11 ani 10-9 kyu",
+    "tatami": 2,
+    "ora": "12:00",
+    "durata_minute": 6,
+    "faza": "kata",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "GIROC:Sheet1:24",
+      "FAGARAS:Sheet1:85",
+      "FAGARAS:Sheet1:86"
+    ],
+    "culori": {
+      "GIROC:Sheet1:24": "ROSU",
+      "FAGARAS:Sheet1:85": "ALBASTRU",
+      "FAGARAS:Sheet1:86": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT15",
+    "categorie": "FKAT15",
+    "denumire": "Kata feminin 12-13 ani 6-4 kyu",
+    "tatami": 1,
+    "ora": "12:10",
+    "durata_minute": 12,
+    "faza": "kata",
+    "numar_participanti": 10,
+    "participant_ids": [
+      "FAGARAS:Sheet1:48",
+      "FAGARAS:Sheet1:42",
+      "FAGARAS:Sheet1:47",
+      "FAGARAS:Sheet1:46",
+      "FAGARAS:Sheet1:40",
+      "FAGARAS:Sheet1:45",
+      "GIROC:Sheet1:17",
+      "FAGARAS:Sheet1:41",
+      "FAGARAS:Sheet1:43",
+      "FAGARAS:Sheet1:44"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:48": "ROSU",
+      "FAGARAS:Sheet1:42": "ALBASTRU",
+      "FAGARAS:Sheet1:47": "ALBASTRU",
+      "FAGARAS:Sheet1:46": "ROSU",
+      "FAGARAS:Sheet1:40": "ALBASTRU",
+      "FAGARAS:Sheet1:45": "ROSU",
+      "GIROC:Sheet1:17": "ALBASTRU",
+      "FAGARAS:Sheet1:41": "ALBASTRU",
+      "FAGARAS:Sheet1:43": "ROSU",
+      "FAGARAS:Sheet1:44": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT5",
+    "categorie": "FKAT5",
+    "denumire": "Kata feminin 12-13 ani 10-9 kyu",
+    "tatami": 2,
+    "ora": "12:10",
+    "durata_minute": 5,
+    "faza": "kata",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "FAGARAS:Sheet1:49",
+      "vicotria:Sheet1:28"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:49": "ROSU",
+      "vicotria:Sheet1:28": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKATTEAM4",
+    "categorie": "FKATTEAM4",
+    "denumire": "Kata echipe feminin 12-13 ani  ",
+    "tatami": 2,
+    "ora": "12:15",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:ECHIPA:28",
+      "vicotria:Sheet1:ECHIPA:13",
+      "FAGARAS:Sheet1:ECHIPA:25",
+      "FAGARAS:Sheet1:ECHIPA:31"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:ECHIPA:28": "ROSU",
+      "vicotria:Sheet1:ECHIPA:13": "ALBASTRU",
+      "FAGARAS:Sheet1:ECHIPA:25": "ROSU",
+      "FAGARAS:Sheet1:ECHIPA:31": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT15",
+    "categorie": "MKAT15",
+    "denumire": "Kata masculin 12-13 ani 6-4 kyu",
+    "tatami": 1,
+    "ora": "12:25",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 7,
+    "participant_ids": [
+      "FAGARAS:Sheet1:93",
+      "vicotria:Sheet1:11",
+      "FAGARAS:Sheet1:91",
+      "FAGARAS:Sheet1:89",
+      "FAGARAS:Sheet1:92",
+      "FAGARAS:Sheet1:90",
+      "FAGARAS:Sheet1:88"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:93": "ROSU",
+      "vicotria:Sheet1:11": "ALBASTRU",
+      "FAGARAS:Sheet1:91": "ROSU",
+      "FAGARAS:Sheet1:89": "ALBASTRU",
+      "FAGARAS:Sheet1:92": "ROSU",
+      "FAGARAS:Sheet1:90": "ALBASTRU",
+      "FAGARAS:Sheet1:88": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT5",
+    "categorie": "MKAT5",
+    "denumire": "Kata masculin 12-13 ani 10-9 kyu",
+    "tatami": 2,
+    "ora": "12:25",
+    "durata_minute": 5,
+    "faza": "kata",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "FAGARAS:Sheet1:87",
+      "FAGARAS:Sheet1:94"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:87": "ROSU",
+      "FAGARAS:Sheet1:94": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKATTEAM4",
+    "categorie": "MKATTEAM4",
+    "denumire": "Kata echipe masculin 12-13 ani  ",
+    "tatami": 2,
+    "ora": "12:30",
+    "durata_minute": 7,
+    "faza": "kata",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:ECHIPA:49",
+      "FAGARAS:Sheet1:ECHIPA:55",
+      "FAGARAS:Sheet1:ECHIPA:46",
+      "FAGARAS:Sheet1:ECHIPA:52"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:ECHIPA:49": "ROSU",
+      "FAGARAS:Sheet1:ECHIPA:55": "ALBASTRU",
+      "FAGARAS:Sheet1:ECHIPA:46": "ROSU",
+      "FAGARAS:Sheet1:ECHIPA:52": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT12",
+    "categorie": "FKAT12",
+    "denumire": "Kata feminin 14-16 ani 8-7 kyu",
+    "tatami": 1,
+    "ora": "12:35",
+    "durata_minute": 6,
+    "faza": "kata",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:17",
+      "FAGARAS:Sheet1:50",
+      "FAGARAS:Sheet1:52"
+    ],
+    "culori": {
+      "vicotria:Sheet1:17": "ROSU",
+      "FAGARAS:Sheet1:50": "ALBASTRU",
+      "FAGARAS:Sheet1:52": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT20",
+    "categorie": "FKAT20",
+    "denumire": "Kata feminin 14-16 ani 3-1 kyu / DAN",
+    "tatami": 2,
+    "ora": "12:40",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 6,
+    "participant_ids": [
+      "vicotria:Sheet1:32",
+      "FAGARAS:Sheet1:51",
+      "GIROC:Sheet1:11",
+      "GIROC:Sheet1:21",
+      "vicotria:Sheet1:12",
+      "VIKINGII ALBI:Sheet1:10"
+    ],
+    "culori": {
+      "vicotria:Sheet1:32": "ROSU",
+      "FAGARAS:Sheet1:51": "ALBASTRU",
+      "GIROC:Sheet1:11": "ALBASTRU",
+      "GIROC:Sheet1:21": "ROSU",
+      "vicotria:Sheet1:12": "ALBASTRU",
+      "VIKINGII ALBI:Sheet1:10": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKAT20",
+    "categorie": "MKAT20",
+    "denumire": "Kata masculin 14-16 ani 3-1 kyu / DAN",
+    "tatami": 1,
+    "ora": "12:45",
+    "durata_minute": 9,
+    "faza": "kata",
+    "numar_participanti": 6,
+    "participant_ids": [
+      "vicotria:Sheet1:13",
+      "GIROC:Sheet1:23",
+      "FAGARAS:Sheet1:96",
+      "FAGARAS:Sheet1:95",
+      "vicotria:Sheet1:30",
+      "FAGARAS:Sheet1:98"
+    ],
+    "culori": {
+      "vicotria:Sheet1:13": "ROSU",
+      "GIROC:Sheet1:23": "ALBASTRU",
+      "FAGARAS:Sheet1:96": "ALBASTRU",
+      "FAGARAS:Sheet1:95": "ROSU",
+      "vicotria:Sheet1:30": "ALBASTRU",
+      "FAGARAS:Sheet1:98": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKAT23",
+    "categorie": "FKAT23",
+    "denumire": "Kata feminin 17-18 ani 3-1 kyu / DAN",
+    "tatami": 2,
+    "ora": "12:50",
+    "durata_minute": 5,
+    "faza": "kata",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "vicotria:Sheet1:38",
+      "FAGARAS:Sheet1:53"
+    ],
+    "culori": {
+      "vicotria:Sheet1:38": "ROSU",
+      "FAGARAS:Sheet1:53": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FM1",
+    "categorie": "FM1",
+    "denumire": "Makiwara feminin 4-5 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "10:35",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "GIROC:Sheet1:25",
+      "FAGARAS:Sheet1:10",
+      "vicotria:Sheet1:18",
+      "FAGARAS:Sheet1:11"
+    ],
+    "culori": {
+      "GIROC:Sheet1:25": "ROSU",
+      "FAGARAS:Sheet1:10": "ALBASTRU",
+      "vicotria:Sheet1:18": "ROSU",
+      "FAGARAS:Sheet1:11": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FT1",
+    "categorie": "FT1",
+    "denumire": "Traseu feminin 4-5 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "10:45",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:11",
+      "vicotria:Sheet1:18",
+      "FAGARAS:Sheet1:10",
+      "GIROC:Sheet1:25"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:11": "ROSU",
+      "vicotria:Sheet1:18": "ALBASTRU",
+      "FAGARAS:Sheet1:10": "ROSU",
+      "GIROC:Sheet1:25": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT1",
+    "categorie": "MT1",
+    "denumire": "Traseu masculin 4-5 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "10:55",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:26",
+      "KANAZAWA RYU:Sheet1:14",
+      "FAGARAS:Sheet1:54"
+    ],
+    "culori": {
+      "vicotria:Sheet1:26": "ROSU",
+      "KANAZAWA RYU:Sheet1:14": "ALBASTRU",
+      "FAGARAS:Sheet1:54": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FM2",
+    "categorie": "FM2",
+    "denumire": "Makiwara feminin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "11:05",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 5,
+    "participant_ids": [
+      "FAGARAS:Sheet1:16",
+      "vicotria:Sheet1:22",
+      "FAGARAS:Sheet1:13",
+      "FAGARAS:Sheet1:12",
+      "vicotria:Sheet1:10"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:16": "ROSU",
+      "vicotria:Sheet1:22": "ALBASTRU",
+      "FAGARAS:Sheet1:13": "ALBASTRU",
+      "FAGARAS:Sheet1:12": "ROSU",
+      "vicotria:Sheet1:10": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FT2",
+    "categorie": "FT2",
+    "denumire": "Traseu feminin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "11:15",
+    "durata_minute": 9,
+    "faza": "skill",
+    "numar_participanti": 5,
+    "participant_ids": [
+      "FAGARAS:Sheet1:13",
+      "vicotria:Sheet1:10",
+      "KANAZAWA RYU:Sheet1:13",
+      "FAGARAS:Sheet1:12",
+      "vicotria:Sheet1:22"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:13": "ROSU",
+      "vicotria:Sheet1:10": "ALBASTRU",
+      "KANAZAWA RYU:Sheet1:13": "ALBASTRU",
+      "FAGARAS:Sheet1:12": "ROSU",
+      "vicotria:Sheet1:22": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM2A",
+    "categorie": "MM2",
+    "denumire": "Makiwara masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "11:25",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:39",
+      "FAGARAS:Sheet1:61",
+      "FAGARAS:Sheet1:63",
+      "FAGARAS:Sheet1:58"
+    ],
+    "culori": {
+      "vicotria:Sheet1:39": "ROSU",
+      "FAGARAS:Sheet1:61": "ALBASTRU",
+      "FAGARAS:Sheet1:63": "ROSU",
+      "FAGARAS:Sheet1:58": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM2B",
+    "categorie": "MM2",
+    "denumire": "Makiwara masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "11:35",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "VIKINGII ALBI:Sheet1:12",
+      "FAGARAS:Sheet1:57",
+      "FAGARAS:Sheet1:64",
+      "vicotria:Sheet1:20"
+    ],
+    "culori": {
+      "VIKINGII ALBI:Sheet1:12": "ROSU",
+      "FAGARAS:Sheet1:57": "ALBASTRU",
+      "FAGARAS:Sheet1:64": "ROSU",
+      "vicotria:Sheet1:20": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM2C",
+    "categorie": "MM2",
+    "denumire": "Makiwara masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "11:45",
+    "durata_minute": 6,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:59",
+      "vicotria:Sheet1:25",
+      "FAGARAS:Sheet1:60"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:59": "ROSU",
+      "vicotria:Sheet1:25": "ALBASTRU",
+      "FAGARAS:Sheet1:60": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM2D",
+    "categorie": "MM2",
+    "denumire": "Makiwara masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "11:55",
+    "durata_minute": 6,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:26",
+      "FAGARAS:Sheet1:55",
+      "FAGARAS:Sheet1:56"
+    ],
+    "culori": {
+      "vicotria:Sheet1:26": "ROSU",
+      "FAGARAS:Sheet1:55": "ALBASTRU",
+      "FAGARAS:Sheet1:56": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT2A",
+    "categorie": "MT2",
+    "denumire": "Traseu masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "12:05",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:61",
+      "KANAZAWA RYU:Sheet1:10",
+      "vicotria:Sheet1:25",
+      "FAGARAS:Sheet1:62"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:61": "ROSU",
+      "KANAZAWA RYU:Sheet1:10": "ALBASTRU",
+      "vicotria:Sheet1:25": "ROSU",
+      "FAGARAS:Sheet1:62": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT2B",
+    "categorie": "MT2",
+    "denumire": "Traseu masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "12:15",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:63",
+      "VIKINGII ALBI:Sheet1:12",
+      "FAGARAS:Sheet1:57",
+      "vicotria:Sheet1:39"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:63": "ROSU",
+      "VIKINGII ALBI:Sheet1:12": "ALBASTRU",
+      "FAGARAS:Sheet1:57": "ROSU",
+      "vicotria:Sheet1:39": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT2C",
+    "categorie": "MT2",
+    "denumire": "Traseu masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "12:25",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:20",
+      "FAGARAS:Sheet1:56",
+      "FAGARAS:Sheet1:59"
+    ],
+    "culori": {
+      "vicotria:Sheet1:20": "ROSU",
+      "FAGARAS:Sheet1:56": "ALBASTRU",
+      "FAGARAS:Sheet1:59": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT2D",
+    "categorie": "MT2",
+    "denumire": "Traseu masculin 6-7 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "12:35",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:64",
+      "FAGARAS:Sheet1:58",
+      "FAGARAS:Sheet1:55"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:64": "ROSU",
+      "FAGARAS:Sheet1:58": "ALBASTRU",
+      "FAGARAS:Sheet1:55": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FM3A",
+    "categorie": "FM3",
+    "denumire": "Makiwara feminin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "12:45",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:35",
+      "vicotria:Sheet1:37",
+      "FAGARAS:Sheet1:20",
+      "vicotria:Sheet1:34"
+    ],
+    "culori": {
+      "vicotria:Sheet1:35": "ROSU",
+      "vicotria:Sheet1:37": "ALBASTRU",
+      "FAGARAS:Sheet1:20": "ROSU",
+      "vicotria:Sheet1:34": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FM3B",
+    "categorie": "FM3",
+    "denumire": "Makiwara feminin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "12:55",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:24",
+      "FAGARAS:Sheet1:18",
+      "vicotria:Sheet1:36",
+      "FAGARAS:Sheet1:17"
+    ],
+    "culori": {
+      "vicotria:Sheet1:24": "ROSU",
+      "FAGARAS:Sheet1:18": "ALBASTRU",
+      "vicotria:Sheet1:36": "ROSU",
+      "FAGARAS:Sheet1:17": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FM3C",
+    "categorie": "FM3",
+    "denumire": "Makiwara feminin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "13:30",
+    "durata_minute": 6,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:19",
+      "vicotria:Sheet1:31",
+      "vicotria:Sheet1:23"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:19": "ROSU",
+      "vicotria:Sheet1:31": "ALBASTRU",
+      "vicotria:Sheet1:23": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FT3A",
+    "categorie": "FT3",
+    "denumire": "Traseu feminin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "13:40",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:24",
+      "FAGARAS:Sheet1:20",
+      "KANAZAWA RYU:Sheet1:12",
+      "vicotria:Sheet1:23"
+    ],
+    "culori": {
+      "vicotria:Sheet1:24": "ROSU",
+      "FAGARAS:Sheet1:20": "ALBASTRU",
+      "KANAZAWA RYU:Sheet1:12": "ROSU",
+      "vicotria:Sheet1:23": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FT3B",
+    "categorie": "FT3",
+    "denumire": "Traseu feminin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "13:50",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:31",
+      "KANAZAWA RYU:Sheet1:11",
+      "vicotria:Sheet1:36",
+      "FAGARAS:Sheet1:17"
+    ],
+    "culori": {
+      "vicotria:Sheet1:31": "ROSU",
+      "KANAZAWA RYU:Sheet1:11": "ALBASTRU",
+      "vicotria:Sheet1:36": "ROSU",
+      "FAGARAS:Sheet1:17": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FT3C",
+    "categorie": "FT3",
+    "denumire": "Traseu feminin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "14:00",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:35",
+      "vicotria:Sheet1:34",
+      "vicotria:Sheet1:37",
+      "FAGARAS:Sheet1:18"
+    ],
+    "culori": {
+      "vicotria:Sheet1:35": "ROSU",
+      "vicotria:Sheet1:34": "ALBASTRU",
+      "vicotria:Sheet1:37": "ROSU",
+      "FAGARAS:Sheet1:18": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM3A",
+    "categorie": "MM3",
+    "denumire": "Makiwara masculin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "14:10",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:72",
+      "FAGARAS:Sheet1:78",
+      "vicotria:Sheet1:19",
+      "FAGARAS:Sheet1:73"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:72": "ROSU",
+      "FAGARAS:Sheet1:78": "ALBASTRU",
+      "vicotria:Sheet1:19": "ROSU",
+      "FAGARAS:Sheet1:73": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM3B",
+    "categorie": "MM3",
+    "denumire": "Makiwara masculin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "14:20",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:76",
+      "FAGARAS:Sheet1:71",
+      "GIROC:Sheet1:27",
+      "FAGARAS:Sheet1:66"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:76": "ROSU",
+      "FAGARAS:Sheet1:71": "ALBASTRU",
+      "GIROC:Sheet1:27": "ROSU",
+      "FAGARAS:Sheet1:66": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM3C",
+    "categorie": "MM3",
+    "denumire": "Makiwara masculin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "14:30",
+    "durata_minute": 6,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:68",
+      "GIROC:Sheet1:29",
+      "FAGARAS:Sheet1:70"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:68": "ROSU",
+      "GIROC:Sheet1:29": "ALBASTRU",
+      "FAGARAS:Sheet1:70": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT3A",
+    "categorie": "MT3",
+    "denumire": "Traseu masculin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "14:40",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "GIROC:Sheet1:27",
+      "FAGARAS:Sheet1:66",
+      "FAGARAS:Sheet1:73",
+      "FAGARAS:Sheet1:71"
+    ],
+    "culori": {
+      "GIROC:Sheet1:27": "ROSU",
+      "FAGARAS:Sheet1:66": "ALBASTRU",
+      "FAGARAS:Sheet1:73": "ROSU",
+      "FAGARAS:Sheet1:71": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT3B",
+    "categorie": "MT3",
+    "denumire": "Traseu masculin 8-9 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "14:50",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:19",
+      "FAGARAS:Sheet1:68",
+      "FAGARAS:Sheet1:76",
+      "FAGARAS:Sheet1:70"
+    ],
+    "culori": {
+      "vicotria:Sheet1:19": "ROSU",
+      "FAGARAS:Sheet1:68": "ALBASTRU",
+      "FAGARAS:Sheet1:76": "ROSU",
+      "FAGARAS:Sheet1:70": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FM4A",
+    "categorie": "FM4",
+    "denumire": "Makiwara feminin 10-11 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "15:00",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:29",
+      "FAGARAS:Sheet1:30",
+      "FAGARAS:Sheet1:35",
+      "vicotria:Sheet1:27"
+    ],
+    "culori": {
+      "vicotria:Sheet1:29": "ROSU",
+      "FAGARAS:Sheet1:30": "ALBASTRU",
+      "FAGARAS:Sheet1:35": "ROSU",
+      "vicotria:Sheet1:27": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FM4B",
+    "categorie": "FM4",
+    "denumire": "Makiwara feminin 10-11 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "15:10",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:28",
+      "vicotria:Sheet1:15",
+      "vicotria:Sheet1:21",
+      "FAGARAS:Sheet1:39"
+    ],
+    "culori": {
+      "vicotria:Sheet1:28": "ROSU",
+      "vicotria:Sheet1:15": "ALBASTRU",
+      "vicotria:Sheet1:21": "ROSU",
+      "FAGARAS:Sheet1:39": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FT4A",
+    "categorie": "FT4",
+    "denumire": "Traseu feminin 10-11 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "15:20",
+    "durata_minute": 8,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "vicotria:Sheet1:28",
+      "vicotria:Sheet1:21",
+      "FAGARAS:Sheet1:39",
+      "vicotria:Sheet1:27"
+    ],
+    "culori": {
+      "vicotria:Sheet1:28": "ROSU",
+      "vicotria:Sheet1:21": "ALBASTRU",
+      "FAGARAS:Sheet1:39": "ROSU",
+      "vicotria:Sheet1:27": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FT4B",
+    "categorie": "FT4",
+    "denumire": "Traseu feminin 10-11 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "15:30",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:35",
+      "vicotria:Sheet1:15",
+      "vicotria:Sheet1:29"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:35": "ROSU",
+      "vicotria:Sheet1:15": "ALBASTRU",
+      "vicotria:Sheet1:29": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MM4",
+    "categorie": "MM4",
+    "denumire": "Makiwara masculin 10-11 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "15:40",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:87",
+      "GIROC:Sheet1:24",
+      "FAGARAS:Sheet1:85",
+      "FAGARAS:Sheet1:86"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:87": "ROSU",
+      "GIROC:Sheet1:24": "ALBASTRU",
+      "FAGARAS:Sheet1:85": "ROSU",
+      "FAGARAS:Sheet1:86": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MT4",
+    "categorie": "MT4",
+    "denumire": "Traseu masculin 10-11 ani 10-6 kyu",
+    "tatami": 3,
+    "ora": "15:50",
+    "durata_minute": 7,
+    "faza": "skill",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:85",
+      "FAGARAS:Sheet1:87",
+      "FAGARAS:Sheet1:86"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:85": "ROSU",
+      "FAGARAS:Sheet1:87": "ALBASTRU",
+      "FAGARAS:Sheet1:86": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU1A",
+    "categorie": "FKU1",
+    "denumire": "Kumite feminin 8-9 ani 10-7 kyu",
+    "tatami": 1,
+    "ora": "14:10",
+    "durata_minute": 9,
+    "faza": "kumite",
+    "numar_participanti": 4,
+    "participant_ids": [
+      "FAGARAS:Sheet1:14",
+      "vicotria:Sheet1:37",
+      "FAGARAS:Sheet1:15",
+      "vicotria:Sheet1:35"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:14": "ROSU",
+      "vicotria:Sheet1:37": "ALBASTRU",
+      "FAGARAS:Sheet1:15": "ROSU",
+      "vicotria:Sheet1:35": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU1B",
+    "categorie": "FKU1",
+    "denumire": "Kumite feminin 8-9 ani 10-7 kyu",
+    "tatami": 2,
+    "ora": "14:00",
+    "durata_minute": 7,
+    "faza": "kumite",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:24",
+      "FAGARAS:Sheet1:23",
+      "vicotria:Sheet1:36"
+    ],
+    "culori": {
+      "vicotria:Sheet1:24": "ROSU",
+      "FAGARAS:Sheet1:23": "ALBASTRU",
+      "vicotria:Sheet1:36": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU1C",
+    "categorie": "FKU1",
+    "denumire": "Kumite feminin 8-9 ani 10-7 kyu",
+    "tatami": 2,
+    "ora": "14:10",
+    "durata_minute": 7,
+    "faza": "kumite",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:22",
+      "FAGARAS:Sheet1:21",
+      "vicotria:Sheet1:10"
+    ],
+    "culori": {
+      "vicotria:Sheet1:22": "ROSU",
+      "FAGARAS:Sheet1:21": "ALBASTRU",
+      "vicotria:Sheet1:10": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU1D",
+    "categorie": "FKU1",
+    "denumire": "Kumite feminin 8-9 ani 10-7 kyu",
+    "tatami": 1,
+    "ora": "14:20",
+    "durata_minute": 7,
+    "faza": "kumite",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:23",
+      "FAGARAS:Sheet1:24",
+      "vicotria:Sheet1:34"
+    ],
+    "culori": {
+      "vicotria:Sheet1:23": "ROSU",
+      "FAGARAS:Sheet1:24": "ALBASTRU",
+      "vicotria:Sheet1:34": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU5",
+    "categorie": "FKU5",
+    "denumire": "Kumite feminin 8-9 ani 6-4 kyu",
+    "tatami": 2,
+    "ora": "14:20",
+    "durata_minute": 6,
+    "faza": "kumite",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "GIROC:Sheet1:19",
+      "FAGARAS:Sheet1:22"
+    ],
+    "culori": {
+      "GIROC:Sheet1:19": "ROSU",
+      "FAGARAS:Sheet1:22": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKU1",
+    "categorie": "MKU1",
+    "denumire": "Kumite masculin 8-9 ani 10-7 kyu",
+    "tatami": 1,
+    "ora": "15:00",
+    "durata_minute": 16,
+    "faza": "kumite",
+    "numar_participanti": 9,
+    "participant_ids": [
+      "GIROC:Sheet1:27",
+      "FAGARAS:Sheet1:77",
+      "FAGARAS:Sheet1:74",
+      "FAGARAS:Sheet1:79",
+      "vicotria:Sheet1:19",
+      "FAGARAS:Sheet1:65",
+      "FAGARAS:Sheet1:67",
+      "FAGARAS:Sheet1:75",
+      "FAGARAS:Sheet1:69"
+    ],
+    "culori": {
+      "GIROC:Sheet1:27": "ROSU",
+      "FAGARAS:Sheet1:77": "ALBASTRU",
+      "FAGARAS:Sheet1:74": "ALBASTRU",
+      "FAGARAS:Sheet1:79": "ROSU",
+      "vicotria:Sheet1:19": "ALBASTRU",
+      "FAGARAS:Sheet1:65": "ROSU",
+      "FAGARAS:Sheet1:67": "ALBASTRU",
+      "FAGARAS:Sheet1:75": "ROSU",
+      "FAGARAS:Sheet1:69": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU2",
+    "categorie": "FKU2",
+    "denumire": "Kumite feminin 10-11 ani 10-7 kyu",
+    "tatami": 1,
+    "ora": "15:40",
+    "durata_minute": 18,
+    "faza": "kumite",
+    "numar_participanti": 10,
+    "participant_ids": [
+      "FAGARAS:Sheet1:38",
+      "vicotria:Sheet1:29",
+      "FAGARAS:Sheet1:31",
+      "FAGARAS:Sheet1:25",
+      "vicotria:Sheet1:27",
+      "vicotria:Sheet1:21",
+      "FAGARAS:Sheet1:26",
+      "FAGARAS:Sheet1:32",
+      "FAGARAS:Sheet1:29",
+      "FAGARAS:Sheet1:33"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:38": "ROSU",
+      "vicotria:Sheet1:29": "ALBASTRU",
+      "FAGARAS:Sheet1:31": "ALBASTRU",
+      "FAGARAS:Sheet1:25": "ROSU",
+      "vicotria:Sheet1:27": "ALBASTRU",
+      "vicotria:Sheet1:21": "ROSU",
+      "FAGARAS:Sheet1:26": "ALBASTRU",
+      "FAGARAS:Sheet1:32": "ALBASTRU",
+      "FAGARAS:Sheet1:29": "ROSU",
+      "FAGARAS:Sheet1:33": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU6",
+    "categorie": "FKU6",
+    "denumire": "Kumite feminin 10-11 ani 6-4 kyu",
+    "tatami": 2,
+    "ora": "14:30",
+    "durata_minute": 13,
+    "faza": "kumite",
+    "numar_participanti": 7,
+    "participant_ids": [
+      "FAGARAS:Sheet1:28",
+      "vicotria:Sheet1:16",
+      "FAGARAS:Sheet1:37",
+      "FAGARAS:Sheet1:27",
+      "FAGARAS:Sheet1:36",
+      "vicotria:Sheet1:33",
+      "FAGARAS:Sheet1:34"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:28": "ROSU",
+      "vicotria:Sheet1:16": "ALBASTRU",
+      "FAGARAS:Sheet1:37": "ROSU",
+      "FAGARAS:Sheet1:27": "ALBASTRU",
+      "FAGARAS:Sheet1:36": "ROSU",
+      "vicotria:Sheet1:33": "ALBASTRU",
+      "FAGARAS:Sheet1:34": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKU6",
+    "categorie": "MKU6",
+    "denumire": "Kumite masculin 10-11 ani 6-4 kyu",
+    "tatami": 2,
+    "ora": "14:45",
+    "durata_minute": 19,
+    "faza": "kumite",
+    "numar_participanti": 11,
+    "participant_ids": [
+      "FAGARAS:Sheet1:82",
+      "GIROC:Sheet1:15",
+      "vicotria:Sheet1:40",
+      "FAGARAS:Sheet1:80",
+      "GIROC:Sheet1:13",
+      "FAGARAS:Sheet1:84",
+      "GIROC:Sheet1:14",
+      "FAGARAS:Sheet1:81",
+      "GIROC:Sheet1:18",
+      "GIROC:Sheet1:12",
+      "FAGARAS:Sheet1:83"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:82": "ROSU",
+      "GIROC:Sheet1:15": "ALBASTRU",
+      "vicotria:Sheet1:40": "ALBASTRU",
+      "FAGARAS:Sheet1:80": "ROSU",
+      "GIROC:Sheet1:13": "ALBASTRU",
+      "FAGARAS:Sheet1:84": "ALBASTRU",
+      "GIROC:Sheet1:14": "ROSU",
+      "FAGARAS:Sheet1:81": "ALBASTRU",
+      "GIROC:Sheet1:18": "ALBASTRU",
+      "GIROC:Sheet1:12": "ROSU",
+      "FAGARAS:Sheet1:83": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU3",
+    "categorie": "FKU3",
+    "denumire": "Kumite feminin 12-13 ani 10-7 kyu",
+    "tatami": 2,
+    "ora": "15:30",
+    "durata_minute": 6,
+    "faza": "kumite",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "vicotria:Sheet1:17",
+      "vicotria:Sheet1:28"
+    ],
+    "culori": {
+      "vicotria:Sheet1:17": "ROSU",
+      "vicotria:Sheet1:28": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU7",
+    "categorie": "FKU7",
+    "denumire": "Kumite feminin 12-13 ani 6-4 kyu",
+    "tatami": 2,
+    "ora": "15:40",
+    "durata_minute": 20,
+    "faza": "kumite",
+    "numar_participanti": 9,
+    "participant_ids": [
+      "FAGARAS:Sheet1:45",
+      "FAGARAS:Sheet1:47",
+      "FAGARAS:Sheet1:44",
+      "FAGARAS:Sheet1:46",
+      "FAGARAS:Sheet1:42",
+      "FAGARAS:Sheet1:41",
+      "FAGARAS:Sheet1:43",
+      "FAGARAS:Sheet1:40",
+      "FAGARAS:Sheet1:48"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:45": "ROSU",
+      "FAGARAS:Sheet1:47": "ALBASTRU",
+      "FAGARAS:Sheet1:44": "ALBASTRU",
+      "FAGARAS:Sheet1:46": "ROSU",
+      "FAGARAS:Sheet1:42": "ALBASTRU",
+      "FAGARAS:Sheet1:41": "ROSU",
+      "FAGARAS:Sheet1:43": "ALBASTRU",
+      "FAGARAS:Sheet1:40": "ROSU",
+      "FAGARAS:Sheet1:48": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKU7",
+    "categorie": "MKU7",
+    "denumire": "Kumite masculin 12-13 ani 6-4 kyu",
+    "tatami": 1,
+    "ora": "16:00",
+    "durata_minute": 16,
+    "faza": "kumite",
+    "numar_participanti": 7,
+    "participant_ids": [
+      "FAGARAS:Sheet1:93",
+      "FAGARAS:Sheet1:89",
+      "FAGARAS:Sheet1:92",
+      "vicotria:Sheet1:11",
+      "FAGARAS:Sheet1:88",
+      "FAGARAS:Sheet1:91",
+      "FAGARAS:Sheet1:90"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:93": "ROSU",
+      "FAGARAS:Sheet1:89": "ALBASTRU",
+      "FAGARAS:Sheet1:92": "ROSU",
+      "vicotria:Sheet1:11": "ALBASTRU",
+      "FAGARAS:Sheet1:88": "ROSU",
+      "FAGARAS:Sheet1:91": "ALBASTRU",
+      "FAGARAS:Sheet1:90": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU12",
+    "categorie": "FKU12",
+    "denumire": "Kumite feminin 14-16 ani 3-1 kyu / DAN",
+    "tatami": 2,
+    "ora": "16:00",
+    "durata_minute": 8,
+    "faza": "kumite",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "FAGARAS:Sheet1:51",
+      "vicotria:Sheet1:32",
+      "vicotria:Sheet1:12"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:51": "ROSU",
+      "vicotria:Sheet1:32": "ALBASTRU",
+      "vicotria:Sheet1:12": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKU12",
+    "categorie": "MKU12",
+    "denumire": "Kumite masculin 14-16 ani 3-1 kyu / DAN",
+    "tatami": 2,
+    "ora": "16:10",
+    "durata_minute": 18,
+    "faza": "kumite",
+    "numar_participanti": 8,
+    "participant_ids": [
+      "FAGARAS:Sheet1:98",
+      "GIROC:Sheet1:10",
+      "FAGARAS:Sheet1:95",
+      "vicotria:Sheet1:14",
+      "FAGARAS:Sheet1:97",
+      "vicotria:Sheet1:13",
+      "FAGARAS:Sheet1:96",
+      "GIROC:Sheet1:26"
+    ],
+    "culori": {
+      "FAGARAS:Sheet1:98": "ROSU",
+      "GIROC:Sheet1:10": "ALBASTRU",
+      "FAGARAS:Sheet1:95": "ROSU",
+      "vicotria:Sheet1:14": "ALBASTRU",
+      "FAGARAS:Sheet1:97": "ROSU",
+      "vicotria:Sheet1:13": "ALBASTRU",
+      "FAGARAS:Sheet1:96": "ROSU",
+      "GIROC:Sheet1:26": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "MKU4",
+    "categorie": "MKU4",
+    "denumire": "Kumite masculin 14-16 ani 10-7 kyu",
+    "tatami": 1,
+    "ora": "16:20",
+    "durata_minute": 6,
+    "faza": "kumite",
+    "numar_participanti": 2,
+    "participant_ids": [
+      "vicotria:Sheet1:30",
+      "FAGARAS:Sheet1:94"
+    ],
+    "culori": {
+      "vicotria:Sheet1:30": "ROSU",
+      "FAGARAS:Sheet1:94": "ALBASTRU"
+    }
+  },
+  {
+    "cod": "FKU13",
+    "categorie": "FKU13",
+    "denumire": "Kumite feminin 17-18 ani 8-7 kyu",
+    "tatami": 1,
+    "ora": "16:30",
+    "durata_minute": 8,
+    "faza": "kumite",
+    "numar_participanti": 3,
+    "participant_ids": [
+      "vicotria:Sheet1:38",
+      "FAGARAS:Sheet1:53",
+      "FAGARAS:Sheet1:52"
+    ],
+    "culori": {
+      "vicotria:Sheet1:38": "ROSU",
+      "FAGARAS:Sheet1:53": "ALBASTRU",
+      "FAGARAS:Sheet1:52": "ALBASTRU"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+<!doctype html><meta charset="utf-8"><title>Lista — VIKINGII ALBI</title>
+<style>
+body{font:14px Arial;margin:24px;background:#eef2f7;color:#18243a}
+h1{margin-bottom:6px}.columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.column{background:white;border-radius:10px;overflow:hidden;box-shadow:0 2px 8px #18243a22}
+h2{margin:0;padding:14px;background:#18243a;color:white;text-align:center}
+table{width:100%;border-collapse:collapse}th,td{border-bottom:1px solid #d9e0e8;padding:8px 7px;vertical-align:top}
+th{background:#d71945;color:white;text-align:left}.time,.code{font-weight:bold;white-space:nowrap}
+.code{color:#d71945}.duration{white-space:nowrap;color:#526172}.rosu{background:#ffdede}
+.albastru{background:#dfe8ff}.band{display:inline-block;width:7px;height:22px;
+vertical-align:middle;margin-right:7px;border-radius:2px}.band.rosu{background:#e33434}
+.band.albastru{background:#356bd8}.category-link{color:#d71945;font-weight:bold;text-decoration:none}
+.category-block{background:white;margin:0 0 16px;border-radius:10px;overflow:hidden;
+box-shadow:0 2px 8px #18243a22}.category-title{padding:12px 14px;background:#18243a;color:white}
+.category-title a{color:white}.category-table{width:100%}
+@media(max-width:900px){.columns{grid-template-columns:1fr}}
+</style>
+<style>.hidden{display:none}.selector{padding:10px;background:white;border-radius:8px;margin-bottom:14px}.total{font-size:18px;background:#18243a;color:white;padding:12px;border-radius:8px;margin-top:14px}</style>
+<h1>Lista — VIKINGII ALBI</h1>
+<div class="selector"><label>Afișare: <select id="view" onchange="switchView()"><option value="athletes">Sportivi și taxe</option><option value="categories">Categorii</option></select></label></div>
+<div id="athletes"><p><b>TAXĂ DE COMPETIȚIE:</b> 100 LEI prima probă individuală; 160 LEI pentru 2 probe individuale; 230 LEI pentru 3 sau 4 probe individuale; 150 LEI proba de echipă (50 LEI/copil).</p>
+<table><tr><th>Sportiv</th><th>Probe/categorii</th><th>Echipe</th><th>Individual</th><th>Echipă</th><th>Total</th></tr>
+<tr><td>Zguroiu Ana</td><td>FOPEN2 — Kata Open feminin 14-18 ani  <br>FKAT20 — Kata feminin 14-16 ani 3-1 kyu / DAN</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>Spineanu Catalina</td><td>FOPEN1 — Kata Open feminin 10-13 ani  <br>FKAT14 — Kata feminin 10-11 ani 6-4 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+<tr><td>Grigore Ianis</td><td>MT2 — Traseu masculin 6-7 ani 10-6 kyu<br>MM2 — Makiwara masculin 6-7 ani 10-6 kyu</td><td>-</td><td>160 LEI</td><td>0 LEI</td><td><b>160 LEI</b></td></tr>
+</table>
+<div class="total">TOTAL DE ACHITAT: 480 LEI</div></div>
+<div id="categories" class="hidden"><table><tr><th>Categorie</th><th>Sportivi</th><th>Nr.</th></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=1#page=1">FOPEN2</a> — Kata Open feminin 14-18 ani  </td><td>Zguroiu Ana</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=3#page=3">FOPEN1</a> — Kata Open feminin 10-13 ani  </td><td>Spineanu Catalina</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=7#page=7">MT2</a> — Traseu masculin 6-7 ani 10-6 kyu</td><td>Grigore Ianis</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=21#page=21">MM2</a> — Makiwara masculin 6-7 ani 10-6 kyu</td><td>Grigore Ianis</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=55#page=55">FKAT14</a> — Kata feminin 10-11 ani 6-4 kyu</td><td>Spineanu Catalina</td><td>1</td></tr>
+<tr><td class="code"><a href="../bracketuri.pdf?pagina=59#page=59">FKAT20</a> — Kata feminin 14-16 ani 3-1 kyu / DAN</td><td>Zguroiu Ana</td><td>1</td></tr>
+</table></div>
+<section class="total"><b>Necesar pentru sportivii clubului</b><br>Intrări: 6 &nbsp; | &nbsp; Diplome: 6 &nbsp; | &nbsp; Medalii: aur 6, argint 2, bronz 0 (total 8)</section>
+<script>function switchView(){let v=document.getElementById("view").value;document.getElementById("athletes").classList.toggle("hidden",v!=="athletes");document.getElementById("categories").classList.toggle("hidden",v!=="categories");}</script>
