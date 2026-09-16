@@ -1,4 +1,5 @@
-<!doctype html><meta charset="utf-8"><title>Lista — C.S. GIROC-CHISODA</title>
+<!doctype html>
+<html lang="ro"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#101a33"><title>Lista — C.S. GIROC-CHISODA</title>
 <style>
 body{font:14px Arial;margin:24px;background:#eef2f7;color:#18243a}
 h1{margin-bottom:6px}.columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
@@ -14,9 +15,9 @@ vertical-align:middle;margin-right:7px;border-radius:2px}.band.rosu{background:#
 box-shadow:0 2px 8px #18243a22}.category-title{padding:12px 14px;background:#18243a;color:white}
 .category-title a{color:white}.category-table{width:100%}
 @media(max-width:900px){.columns{grid-template-columns:1fr}}
-</style>
+</style><link rel="stylesheet" href="../assets/theme.css">
 <style>.hidden{display:none}.selector{padding:10px;background:white;border-radius:8px;margin-bottom:14px}.total{font-size:18px;background:#18243a;color:white;padding:12px;border-radius:8px;margin-top:14px}</style>
-<h1>Lista — C.S. GIROC-CHISODA</h1>
+</head><body><h1>Lista — C.S. GIROC-CHISODA</h1>
 <div class="selector"><label>Afișare: <select id="view" onchange="switchView()"><option value="athletes">Sportivi și taxe</option><option value="categories">Categorii</option></select></label></div>
 <div id="athletes"><p><b>TAXĂ DE COMPETIȚIE:</b> 100 LEI prima probă individuală; 160 LEI pentru 2 probe individuale; 230 LEI pentru 3 sau 4 probe individuale; 150 LEI proba de echipă (50 LEI/copil).</p>
 <table><tr><th>Sportiv</th><th>Probe/categorii</th><th>Echipe</th><th>Individual</th><th>Echipă</th><th>Total</th></tr>
@@ -67,4 +68,6 @@ box-shadow:0 2px 8px #18243a22}.category-title{padding:12px 14px;background:#182
 <tr><td class="code"><a href="../bracketuri.pdf?pagina=74#page=74">MKU12</a> — Kumite masculin 14-16 ani 3-1 kyu / DAN</td><td>COCA ALEXANDRU, VASILESCU IONUT</td><td>2</td></tr>
 </table></div>
 <section class="total"><b>Necesar pentru sportivii clubului</b><br>Intrări: 37 &nbsp; | &nbsp; Diplome: 37 &nbsp; | &nbsp; Medalii: aur 23, argint 19, bronz 4 (total 46)</section>
-<script>function switchView(){let v=document.getElementById("view").value;document.getElementById("athletes").classList.toggle("hidden",v!=="athletes");document.getElementById("categories").classList.toggle("hidden",v!=="categories");}</script>
+<script>function switchView(){const v=document.getElementById('view').value;document.getElementById('athletes').classList.toggle('hidden',v!=='athletes');document.getElementById('categories').classList.toggle('hidden',v!=='categories');}</script>
+<script src="../assets/app.js"></script>
+</body></html>
