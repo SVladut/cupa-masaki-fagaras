@@ -21,6 +21,10 @@ box-shadow:0 2px 8px #18243a22}.category-title{padding:12px 14px;background:#182
 <table class="category-table"><tr><th>Sportiv / echipă</th><th>Culoare primul meci</th></tr>
 <tr><td><span class="band rosu"></span>FINTOIU VALENTINA</td><td class="rosu">ROSU</td></tr>
 </table></section>
+<script>
+const traseuTimes={FT1:'10:00',MT1:'10:10',FT2:'10:20',MT2A:'10:30',MT2B:'10:40',MT2C:'10:50',MT2D:'11:00',FT3A:'11:10',FT3B:'11:20',FT3C:'11:30',MT3A:'11:40',MT3B:'11:50',FT4A:'12:00',FT4B:'12:10',MT4:'12:20'}, makiwaraTimes={FM1:'10:00',FM2:'10:10',MM2A:'10:20',MM2B:'10:30',MM2C:'10:40',MM2D:'10:50',FM3A:'11:00',FM3B:'11:10',FM3C:'11:20',MM3A:'11:30',MM3B:'11:40',MM3C:'11:50',FM4A:'12:00',FM4B:'12:10',MM4:'12:20'};
+document.addEventListener('DOMContentLoaded',()=>document.querySelectorAll('.category-title').forEach(title=>{const code=title.querySelector('a')?.textContent.split(' ')[0], times=traseuTimes[code]?'| '+traseuTimes[code]+' | Tatami 4 |':makiwaraTimes[code]?'| '+makiwaraTimes[code]+' | Tatami 3 |':'';if(times)title.innerHTML=title.innerHTML.replace(/\|\s*\d\d:\d\d\s*\|\s*Tatami [34]\s*\|/,times);}));
+</script>
 <section class="category-block">
 <div class="category-title"><a href="../bracketuri.pdf?pagina=2#page=2">MOPEN2 — Kata Open masculin 14-18 ani  </a> | 10:00 | Tatami 2 | 4 participanți</div>
 <table class="category-table"><tr><th>Sportiv / echipă</th><th>Culoare primul meci</th></tr>
