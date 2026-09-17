@@ -2789,16 +2789,21 @@
       "denumire": "Kata echipe feminin 12-13 ani  ",
       "grupa": 1,
       "total_grupe": 1,
-      "numar_participanti": 4,
+      "numar_participanti": 5,
       "capacitate": 16,
       "pozitii": [
         {
-          "participant_id": "FAGARAS:Sheet1:ECHIPA:28",
-          "nivel": 2,
+          "participant_id": "GIROC:Sheet1:ECHIPA:10",
+          "nivel": 1,
           "pozitie": 0
         },
         {
           "participant_id": "vicotria:Sheet1:ECHIPA:13",
+          "nivel": 1,
+          "pozitie": 1
+        },
+        {
+          "participant_id": "FAGARAS:Sheet1:ECHIPA:28",
           "nivel": 2,
           "pozitie": 1
         },
@@ -2812,7 +2817,8 @@
           "nivel": 2,
           "pozitie": 3
         }
-      ]
+      ],
+      "seed": 988405845
     }
   ],
   "timetable": [
@@ -4104,16 +4110,18 @@
       "ora": "12:15",
       "durata_minute": 7,
       "faza": "kata",
-      "numar_participanti": 4,
+      "numar_participanti": 5,
       "participant_ids": [
-        "FAGARAS:Sheet1:ECHIPA:28",
+        "GIROC:Sheet1:ECHIPA:10",
         "vicotria:Sheet1:ECHIPA:13",
+        "FAGARAS:Sheet1:ECHIPA:28",
         "FAGARAS:Sheet1:ECHIPA:25",
         "FAGARAS:Sheet1:ECHIPA:31"
       ],
       "culori": {
-        "FAGARAS:Sheet1:ECHIPA:28": "ROSU",
+        "GIROC:Sheet1:ECHIPA:10": "ROSU",
         "vicotria:Sheet1:ECHIPA:13": "ALBASTRU",
+        "FAGARAS:Sheet1:ECHIPA:28": "ALBASTRU",
         "FAGARAS:Sheet1:ECHIPA:25": "ROSU",
         "FAGARAS:Sheet1:ECHIPA:31": "ALBASTRU"
       }
@@ -4713,5 +4721,153 @@
       }
     }
   ],
-  "sursa_sha256": "913f937029055ddec23a12c7c8d576505bc47a99793a5c15779cb7883273b91c"
+  "sursa_sha256": "36ccaa821e05a55cb5ccd3682fa532734389bc9ae6167a4afdfcdf5864ab017e",
+  "actualizari_categorii": {
+    "FKATTEAM4": {
+      "categorie": "FKATTEAM4",
+      "seed": 988405845,
+      "echipe_adaugate": {
+        "GIROC:Sheet1:ECHIPA:10": {
+          "id": "GIROC:Sheet1:ECHIPA:10",
+          "fel": "echipa",
+          "nume": "GIROC",
+          "club": "C.S. GIROC-CHISODA",
+          "membri": [
+            {
+              "id": "GIROC:Sheet1:MEMBRU:10",
+              "nume": "OANCEA ALEXANDRA",
+              "varsta": 12,
+              "grad": "3",
+              "kyu": 3,
+              "dan": null,
+              "sex": "F",
+              "sursa": {
+                "fisier": "GIROC.xlsx",
+                "foaie": "Sheet1",
+                "rand": 10
+              },
+              "date_originale": {
+                "nume": "OANCEA ALEXANDRA",
+                "varsta": 12,
+                "grad": 3,
+                "sex": "F"
+              },
+              "sportiv_id": "GIROC:Sheet1:21"
+            },
+            {
+              "id": "GIROC:Sheet1:MEMBRU:11",
+              "nume": "ANGHEL IRINA",
+              "varsta": 11,
+              "grad": "3",
+              "kyu": 3,
+              "dan": null,
+              "sex": "F",
+              "sursa": {
+                "fisier": "GIROC.xlsx",
+                "foaie": "Sheet1",
+                "rand": 11
+              },
+              "date_originale": {
+                "nume": "ANGHEL IRINA",
+                "varsta": 11,
+                "grad": 3,
+                "sex": "F"
+              },
+              "sportiv_id": "GIROC:Sheet1:16"
+            },
+            {
+              "id": "GIROC:Sheet1:MEMBRU:12",
+              "nume": "AMZA MEDEEA",
+              "varsta": 11,
+              "grad": "3",
+              "kyu": 3,
+              "dan": null,
+              "sex": "F",
+              "sursa": {
+                "fisier": "GIROC.xlsx",
+                "foaie": "Sheet1",
+                "rand": 12
+              },
+              "date_originale": {
+                "nume": "AMZA MEDEEA",
+                "varsta": 11,
+                "grad": 3,
+                "sex": "F"
+              },
+              "sportiv_id": "GIROC:Sheet1:28"
+            }
+          ],
+          "categorii": [
+            "FKATTEAM4"
+          ],
+          "sursa": {
+            "fisier": "GIROC.xlsx",
+            "foaie": "Sheet1",
+            "rand": 10
+          },
+          "sex": "F",
+          "varsta": 12,
+          "kyu": null,
+          "dan": null,
+          "probe": [
+            "KATA_ECHIPE"
+          ]
+        }
+      },
+      "taxe_sportivi": {
+        "GIROC:Sheet1:21": {
+          "nume": "OANCEA ALEXANDRA",
+          "categorii_individuale": [
+            "FOPEN1",
+            "FKAT20"
+          ],
+          "categorii_echipe": [
+            "FKATTEAM4"
+          ],
+          "echipe": [
+            "GIROC:Sheet1:ECHIPA:10"
+          ],
+          "taxa_individuala": 160,
+          "taxa_echipa": 50,
+          "total_de_achitat": 210,
+          "moneda": "LEI"
+        },
+        "GIROC:Sheet1:16": {
+          "nume": "ANGHEL IRINA",
+          "categorii_individuale": [
+            "FKAT14",
+            "FOPEN1"
+          ],
+          "categorii_echipe": [
+            "FKATTEAM4"
+          ],
+          "echipe": [
+            "GIROC:Sheet1:ECHIPA:10"
+          ],
+          "taxa_individuala": 160,
+          "taxa_echipa": 50,
+          "total_de_achitat": 210,
+          "moneda": "LEI"
+        },
+        "GIROC:Sheet1:28": {
+          "nume": "AMZA MEDEEA",
+          "categorii_individuale": [
+            "FKAT14",
+            "FOPEN1"
+          ],
+          "categorii_echipe": [
+            "FKATTEAM4"
+          ],
+          "echipe": [
+            "GIROC:Sheet1:ECHIPA:10"
+          ],
+          "taxa_individuala": 160,
+          "taxa_echipa": 50,
+          "total_de_achitat": 210,
+          "moneda": "LEI"
+        }
+      },
+      "nota_import": "Numele echipei GIROC lipseste din K10 in Excel; eticheta GIROC este folosita numai pentru acest export. Excelul nu a fost modificat."
+    }
+  }
 }

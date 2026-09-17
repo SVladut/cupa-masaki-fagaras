@@ -1287,16 +1287,18 @@
     "ora": "12:15",
     "durata_minute": 7,
     "faza": "kata",
-    "numar_participanti": 4,
+    "numar_participanti": 5,
     "participant_ids": [
-      "FAGARAS:Sheet1:ECHIPA:28",
+      "GIROC:Sheet1:ECHIPA:10",
       "vicotria:Sheet1:ECHIPA:13",
+      "FAGARAS:Sheet1:ECHIPA:28",
       "FAGARAS:Sheet1:ECHIPA:25",
       "FAGARAS:Sheet1:ECHIPA:31"
     ],
     "culori": {
-      "FAGARAS:Sheet1:ECHIPA:28": "ROSU",
+      "GIROC:Sheet1:ECHIPA:10": "ROSU",
       "vicotria:Sheet1:ECHIPA:13": "ALBASTRU",
+      "FAGARAS:Sheet1:ECHIPA:28": "ALBASTRU",
       "FAGARAS:Sheet1:ECHIPA:25": "ROSU",
       "FAGARAS:Sheet1:ECHIPA:31": "ALBASTRU"
     }

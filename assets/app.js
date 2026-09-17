@@ -65,7 +65,7 @@
     document.body.classList.add('clubs-page');
     addIntro('Alege clubul pentru programul personalizat și lista completă a înscrierilor.');tools('Caută un club…');
     const list=document.querySelector('ul');if(list)list.classList.add('club-grid');const items=[...document.querySelectorAll('li')];
-    metrics([[Math.max(0,items.length-1),'cluburi participante'],['146','sportivi individuali'],['18','echipe kata'],['81','bracketuri']]);
+    metrics([[Math.max(0,items.length-1),'cluburi participante'],['148','sportivi individuali'],['19','echipe kata'],['81','bracketuri']]);
     document.querySelector('[data-search]').addEventListener('input',e=>filterNodes(e.target,items));
   }
 })();
